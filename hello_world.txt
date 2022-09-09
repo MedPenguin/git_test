@@ -1,1 +1,2 @@
 I'm adding some text
+I'm adding extra text to test commit messeges 
